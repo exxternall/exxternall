@@ -51,10 +51,6 @@ I specialize in backend development and data engineering. Here's my toolkit:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exxternall&layout=compact&hide_border=true&theme=radical&langs_count=8&exclude_repo=github-readme-stats" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=exxternall&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub Streak" />
-</div>
-
 ## 🌟 Featured Projects
 <div width="100%" align="center">
   <a href="https://github.com/exxternall/typemaster" align="left">
